@@ -1,0 +1,15 @@
+# Front-end user interface
+streamlit==1.32.0
+
+# Multi-agent framework and specific LLM integrations
+crewai==0.22.5
+langchain==0.1.13
+langchain-openai==0.1.1
+langchain-community==0.0.29
+
+# Local vector database engine
+faiss-cpu==1.8.0
+tiktoken==0.6.0
+
+# Environment variable management
+python-dotenv==1.0.1
