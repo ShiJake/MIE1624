@@ -4,7 +4,8 @@ from langchain_openai import OpenAIEmbeddings
 
 # Define the relative path to your saved vector database
 # This points to the data/vector_store/ directory in your Git repo
-DB_PATH = os.path.join(os.path.dirname(__dirname__), "data", "vector_store")
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(PROJECT_ROOT, "data", "vector_store")
 
 def load_knowledge_base():
     """

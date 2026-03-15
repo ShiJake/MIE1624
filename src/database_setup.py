@@ -1,8 +1,9 @@
 import os
 import glob
 from dotenv import load_dotenv
-from langchain.schema import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 
@@ -13,7 +14,7 @@ from langchain_community.document_loaders import (
     UnstructuredPowerPointLoader,
     TextLoader
 )
-import pandas as pd  # For structured tabular data
+import pandas as pd
 
 # 1. Load environment variables
 load_dotenv()
@@ -99,7 +100,9 @@ def build_and_save_database():
     print("Initializing dummy data for testing...")
     dummy_texts = [
         "Part 1 Analysis: A 2025 KPMG study shows Canada ranks 44th in AI literacy out of 47 countries.",
-        "Part 2 Strategy: The enhanced strategy expands the $2 billion Canadian Sovereign AI Compute Strategy."
+        "Part 2 Strategy: The enhanced strategy expands the $2 billion Canadian Sovereign AI Compute Strategy to prioritize domestic startups.",
+        "Part 3 Practical Steps: We recommend modifying the Mitacs research internship program to increase funding for AI-specific industry-academic collaborations.",
+        "Part 4 Storytelling: The PR campaign 'Canada - the country of AI innovations' focuses on ethical AI and attracting international investments."
     ]
     documents = [Document(page_content=text) for text in dummy_texts]
 
