@@ -1,12 +1,10 @@
 import os
 from crewai import Agent
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from src.tools import search_strategy_database
 
 # 1. Initialize the LLM that will power the agents
-# We use ChatOpenAI here, which connects to the OPENAI_API_KEY in your .env file
-# You can change this to Gemini or Claude using their respective LangChain wrappers
-llm = ChatOpenAI(model="gpt-4o", temperature=0.2)
+llm = ChatGoogleGenerativeAI(model="gemini-3.1-flash-lite", temperature=0.2)
 
 def create_researcher_agent() -> Agent:
     """

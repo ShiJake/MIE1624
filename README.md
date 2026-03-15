@@ -9,7 +9,7 @@ To satisfy the advanced implementation requirements, this chatbot utilizes **Cre
 
 ## Prerequisites
 * **Python**: Version `3.13` or higher is recommended.
-* **API Key**: An active OpenAI API key (or equivalent for Claude/Gemini if configured in `agents.py`).
+* **API Key**: An active Google API key (or equivalent for Claude/GPT if configured in `agents.py`).
 
 ---
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### 2. Configure Environment Variables
 Create a file named `.env` in the root directory of the project. Open it and add your API key:
 ```bash
-OPENAI_API_KEY="your-api-key-here"
+GOOGLE_API_KEY="your-api-key-here"
 ```
 
 

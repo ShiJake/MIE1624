@@ -1,6 +1,6 @@
 import os
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 # Define the relative path to your saved vector database
 # This points to the data/vector_store/ directory in your Git repo
@@ -13,7 +13,7 @@ def load_knowledge_base():
     Returns the loaded database object.
     """
     # 1. Initialize the embedding model used to create the original database
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
     
     # 2. Check if the database directory exists to prevent crash errors
     if not os.path.exists(DB_PATH):
