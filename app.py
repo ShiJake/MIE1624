@@ -2,12 +2,12 @@ import streamlit as st
 from dotenv import load_dotenv
 from crewai import Crew, Process
 
-# Import our custom modules
-from src.agents import create_researcher_agent, create_policy_analyst_agent
-from src.tasks import create_research_task, create_analysis_task
-
 # 1. Load environment variables
 load_dotenv()
+
+# Import custom modules
+from src.agents import create_researcher_agent, create_policy_analyst_agent
+from src.tasks import create_research_task, create_analysis_task
 
 # 2. Configure the Streamlit page
 st.set_page_config(page_title="Canada AI Strategy Consultant", page_icon="🍁", layout="centered")

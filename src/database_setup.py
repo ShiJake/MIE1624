@@ -117,7 +117,7 @@ def build_and_save_database():
     
     # 5. Generate Embeddings and Build the FAISS Index
     print("Generating embeddings and building the FAISS index...")
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
+    embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-001")
     vector_db = FAISS.from_documents(chunked_docs, embeddings)
     
     # 6. Save the database

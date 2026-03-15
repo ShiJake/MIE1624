@@ -39,7 +39,7 @@ python src/database_setup.py
 ### Step 2: Launch the Streamlit Interface
 Once the database is built, launch the front-end application:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Step 3: Interact with the Chatbot
