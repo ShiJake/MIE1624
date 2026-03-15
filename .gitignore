@@ -1,0 +1,13 @@
+# Ignore environment variables (keeps your API keys secure)
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment folder
+venv/
+env/
+
+# Ignore large vector database files (prevent massive Git commits)
+data/vector_store/
