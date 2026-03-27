@@ -10,4 +10,4 @@ venv/
 env/
 
 # Ignore large vector database files (prevent massive Git commits)
-data/vector_store/
+# data/vector_store/

@@ -93,6 +93,10 @@ def build_and_save_database():
 
     documents = load_diverse_files(RAW_DATA_PATH)
 
+    if not documents:
+        print("No new documents found in data/raw. Exiting.")
+        return
+
     # Configure the Text Splitter
     print(f"Chunking {len(documents)} documents...")
     text_splitter = RecursiveCharacterTextSplitter(
@@ -105,15 +109,24 @@ def build_and_save_database():
     print(f"Generating embeddings for {len(chunked_docs)} chunks...")
     embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-001")
 
-    # Use a much smaller batch size (15) to stay safely under TPM limits
-    batch_size = 15 
-    print(f"  -> Initializing index with first {batch_size} chunks...")
-    
-    # Initialize the database with the first tiny batch
-    vector_db = FAISS.from_documents(chunked_docs[:batch_size], embeddings)
+    batch_size = 15
+
+    if os.path.exists(DB_PATH):
+        print(f"--- Update Mode: Loading existing index from {DB_PATH} ---")
+        vector_db = FAISS.load_local(
+            DB_PATH, 
+            embeddings, 
+            allow_dangerous_deserialization=True
+        )
+        start_index = 0
+    else:
+        print("--- No existing index found. Initializing new database ---")
+        # Initialize with a tiny slice if starting from scratch
+        vector_db = FAISS.from_documents(chunked_docs[:15], embeddings)
+        start_index = 15
 
     # Loop through the remaining chunks
-    for i in range(batch_size, len(chunked_docs), batch_size):
+    for i in range(start_index, len(chunked_docs), batch_size):
         batch = chunked_docs[i : i + batch_size]
         
         # Retry Logic: If we hit a 429, wait and try again
@@ -144,6 +157,7 @@ def build_and_save_database():
     # Save the completed database
     os.makedirs(DB_PATH, exist_ok=True)
     vector_db.save_local(DB_PATH)
+    print(f"\nSuccess! Database updated and saved to {DB_PATH}")
 
 
 if __name__ == "__main__":
