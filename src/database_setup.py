@@ -1,5 +1,6 @@
 import os
 import glob
+import json
 from dotenv import load_dotenv
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -76,6 +77,24 @@ def load_diverse_files(directory_path: str) -> list[Document]:
                 df = pd.read_excel(file_path)
                 for _, row in df.iterrows():
                     content = " | ".join([f"{col}: {val}" for col, val in row.items()])
+                    documents.append(Document(page_content=content, metadata={"source": file_name}))
+
+            elif ext == ".json":
+                with open(file_path, "r", encoding="utf-8") as f:
+                    json_data = json.load(f)
+
+                # Support JSON objects, arrays, and primitive values.
+                if isinstance(json_data, list):
+                    for idx, item in enumerate(json_data):
+                        content = json.dumps(item, ensure_ascii=False)
+                        documents.append(
+                            Document(
+                                page_content=content,
+                                metadata={"source": file_name, "record_index": idx},
+                            )
+                        )
+                else:
+                    content = json.dumps(json_data, ensure_ascii=False)
                     documents.append(Document(page_content=content, metadata={"source": file_name}))
             
             else:

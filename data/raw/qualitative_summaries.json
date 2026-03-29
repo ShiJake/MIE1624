@@ -1,0 +1,763 @@
+[
+  {
+    "document_name": "OECD National AI Strategy Overview",
+    "country": "Multi-country",
+    "key_metrics": [
+      "over 620 national AI policies from over 60 countries and the European Union (EU)",
+      "EUR 1.5 billion to AI research over two years",
+      "EUR 20 billion invested by the end of 2020",
+      "USD 200 million in grant funds per year for STEM education",
+      "more than 100,000 participants in Finland's AI course, representing more than 2% of the population"
+    ],
+    "infrastructure_findings": [
+      "Many countries are setting up high-quality connectivity and have, or plan to, deploy nationwide 5G technology and 5G networks.",
+      "Several economies allocate high-performance and cloud computing resources to AI-related applications and R&D.",
+      "Some are setting up supercomputers designed for AI use and devoted to research and/or providing financial support to develop the national high-performance computing infrastructure.",
+      "EuroHPC aims to develop a petascale and pre-exascale supercomputing and data infrastructure."
+    ],
+    "policy_findings": [
+      "governments are investing in AI R&D",
+      "reviewing and adapting relevant policy and regulatory frameworks",
+      "developing standards",
+      "co-operating internationally",
+      "OECD provides five recommendations to governments for AI policy",
+      "Countries are at different stages of the development and implementation of national AI strategies and policies",
+      "Establishing AI expert advisory groups comprising AI experts tasked with identifying and reporting on current and future opportunities, risks and challenges arising from the use of AI in society.",
+      "Algorithmic Impact Assessment included in Canada’s Directive to calculate risks of AI tools"
+    ],
+    "talent_findings": [
+      "building human capacity on AI",
+      "ensuring a fair labour market transformation",
+      "Empower people with the skills for AI and support workers for a fair transition",
+      "Many national AI policies emphasise retraining for those displaced by AI, and education and training for workers coming into the labour force, including vocational training and lifelong learning programmes.",
+      "Finland's initiative to educate the entire population in basic AI"
+    ],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "Canada should focus on developing national policies and strategies specifically for AI.",
+      "Investment in responsible AI research and development is crucial.",
+      "Canada developed its national AI strategy in 2017",
+      "Canada engages citizens to ensure diverse perspectives in AI policy consultations.",
+      "Canada may benefit from developing high-performance computing resources and supercomputers for AI applications.",
+      "Establishing centralized repositories for open public data could enhance Canada's data access and sharing capabilities.",
+      "Canada should consider implementing a tax credit similar to the UK's AI R&D Expenditure Credit to stimulate private-sector investment in AI.",
+      "Canada can learn from the EU's approach to developing a legal framework for AI."
+    ],
+    "final_summary": "The OECD report emphasizes the global trend of developing national AI strategies, highlighting the importance of government investment in AI R&D, regulatory adaptation, and international cooperation. It notes significant infrastructure developments, such as high-performance computing and 5G networks, as well as the need for robust talent development initiatives. For Canada, lessons include the importance of tailored national policies, investment in computing resources, and the establishment of frameworks for responsible AI use. Engaging citizens in policy consultations and learning from international models can further strengthen Canada's AI strategy.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "UK AI Opportunities Action Plan (2025)",
+    "country": "United Kingdom",
+    "key_metrics": [
+      "third largest AI market in the world",
+      "Expand the capacity of the AI Research Resource (AIRR) by at least 20x by 2030",
+      "Assuming compute requirements continue to grow at 4x per year",
+      "By 2030 each pound spent on GPUs will buy 8x more FLOP and require 4x less power",
+      "46,000 students graduated from an AI-relevant higher education programme in the UK in 2022",
+      "Germany had 32,000 AI graduates in 2022",
+      "20% of an employee’s time freed up by AI assistants",
+      "AI adoption could grow the UK economy by an additional £400 billion by 2030"
+    ],
+    "infrastructure_findings": [
+      "transformative planning reforms will make it easier to build the data centres that are the engines of the AI age",
+      "The foundation of the last decade of AI progress has been an extraordinary and sustained investment in computational power.",
+      "AI requires data centres that house the large and complex computers that are used to train AI models and to run ‘inference’.",
+      "Sovereign AI compute will enable the UK to quickly and independently allocate compute to national priorities",
+      "Domestic compute will create spillover benefits in the form of jobs, investment and new, AI based, service businesses",
+      "Establish ‘AI Growth Zones’ (AIGZs) to facilitate the accelerated build out of AI data centres",
+      "Delivering appropriate sites for compute in the UK, including through AI Growth Zones",
+      "International partnerships to guarantee compute access from appropriate allies"
+    ],
+    "policy_findings": [
+      "the government aims to shape the application of AI within a modern social market economy",
+      "commitment to real partnership between public and private sectors",
+      "Global leadership on AI safety and governance via the AI Safety Institute, and a proportionate, flexible regulatory approach.",
+      "Government should set out a long-term plan for the UK’s AI infrastructure needs, backed by a 10-year investment commitment",
+      "Government needs to develop a more sophisticated understanding of the value of the data it holds.",
+      "Government should create a new unit, UK Sovereign AI, with the power to partner with the private sector to deliver the clear mandate of maximising the UK’s stake in frontier AI",
+      "Government should procure smartly from the AI ecosystem as both its largest customer and as a market shaper",
+      "Regulation, safety and assurance have the power to drive innovation and economic growth."
+    ],
+    "talent_findings": [
+      "high-quality research and engineering talent coming out of our universities",
+      "Skills England will help ensure that British people are prepared for jobs in the AI-powered industries of tomorrow",
+      "A vibrant startup and scaleup scene, with an increasingly skilled and experienced entrepreneurial workforce.",
+      "UK must train tens of thousands of additional AI professionals across the technology stack",
+      "The availability of powerful computing resources sends an important signal to academic, technical and entrepreneurial talent"
+    ],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "Canada could benefit from examining the UK's approach to building AI infrastructure, particularly in data centers.",
+      "The emphasis on public-private partnerships in the UK could inform Canada's AI policy development.",
+      "The UK emphasizes the importance of investing in AI infrastructure, which Canada could adopt to enhance its own AI capabilities.",
+      "The establishment of AI Growth Zones may provide a model for Canada to attract investment in AI infrastructure",
+      "The emphasis on sovereign and domestic compute could inform Canada's strategy to enhance its own compute capabilities",
+      "Canada could consider establishing similar data libraries to unlock public and private data assets for AI innovation.",
+      "The need for diversity in AI talent could inform Canada's strategies to attract underrepresented groups.",
+      "The emphasis on attracting top AI talent could inform Canada's strategy to enhance its own talent pipeline."
+    ],
+    "final_summary": "The UK AI Opportunities Action Plan outlines a comprehensive strategy to enhance its position as a global leader in AI, focusing on infrastructure development, talent cultivation, and regulatory frameworks. Key initiatives include expanding AI research resources, establishing AI Growth Zones, and fostering public-private partnerships. The plan emphasizes the importance of attracting top talent and ensuring a flexible regulatory approach to drive innovation. Canada can draw valuable lessons from the UK's emphasis on infrastructure investment, public-private collaboration, and strategies to enhance diversity in the AI workforce.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Americas AI Action Plan (2025)",
+    "country": "United States",
+    "key_metrics": [
+      "April 2025 Executive Orders 14277 and 14278"
+    ],
+    "infrastructure_findings": [
+      "Create Streamlined Permitting for Data Centers, Semiconductor Manufacturing Facilities, and Energy Infrastructure while Guaranteeing Security",
+      "Develop a Grid to Match the Pace of AI Innovation",
+      "Restore American Semiconductor Manufacturing",
+      "Build High-Security Data Centers for Military and Intelligence Community Usage",
+      "Ensure access to large-scale computing power for startups and academics by improving the financial market for compute.",
+      "Make Federal lands available for data center construction and the construction of power generation infrastructure for those data centers.",
+      "Establish secure compute environments within NSF and DOE to enable secure AI use-cases for controlled access to restricted Federal data.",
+      "Invest in automated cloud-enabled labs for a range of scientific fields, including engineering, materials science, chemistry, biology, and neuroscience."
+    ],
+    "policy_findings": [
+      "Remove Red Tape and Onerous Regulation",
+      "Ensure that Frontier AI Protects Free Speech and American Values",
+      "Encourage Open-Source and Open-Weight AI",
+      "Drive Adoption of AI within the Department of Defense",
+      "Protect Commercial and Government AI Innovations",
+      "Publish a new National AI Research and Development (R&D) Strategic Plan, led by OSTP.",
+      "Establish regulatory sandboxes or AI Centers of Excellence.",
+      "Evaluate frontier AI systems for national security risks in partnership with frontier AI developers."
+    ],
+    "talent_findings": [
+      "Train a Skilled Workforce for AI Infrastructure",
+      "Prioritize AI skill development as a core objective of relevant education and workforce funding streams.",
+      "Create a talent-exchange program designed to allow rapid details of Federal staff to other agencies in need of specialized AI talent.",
+      "Identify high-priority occupations essential to the buildout of AI-related infrastructure.",
+      "Expand early career exposure programs and pre-apprenticeships that engage middle and high school students in priority AI infrastructure occupations."
+    ],
+    "supply_chain_findings": [
+      "Strengthen AI Compute Export Control Enforcement",
+      "Plug Loopholes in Existing Semiconductor Manufacturing Export Controls",
+      "Revitalize U.S. semiconductor manufacturing to generate thousands of high-paying jobs and protect supply chains from disruption by foreign rivals.",
+      "America and its close allies hold near-monopolies on many critical components and processes in the semiconductor manufacturing pipeline.",
+      "New measures are required to address gaps in semiconductor manufacturing export controls."
+    ],
+    "canada_relevance": [
+      "Canada could benefit from streamlining permitting processes for AI-related infrastructure.",
+      "Investing in high-security data centers may be crucial for Canada's national security in AI.",
+      "The emphasis on removing regulatory barriers could inform Canada's approach to AI legislation.",
+      "Improving access to large-scale computing resources could be a focus for Canada to enhance its AI infrastructure.",
+      "Establishing regulatory sandboxes or AI Centers of Excellence could foster AI adoption in Canada.",
+      "Developing a National AI Research and Development Strategic Plan could guide Canada's AI research investments.",
+      "Investment in workforce training for AI infrastructure roles is crucial for Canada to address its talent gaps.",
+      "Canada may consider strengthening its own AI governance frameworks to align with international standards while promoting innovation."
+    ],
+    "final_summary": "The United States is pursuing a comprehensive AI Action Plan aimed at achieving global leadership in AI through infrastructure development, regulatory reform, and workforce training. Key initiatives include streamlining permitting for data centers, enhancing semiconductor manufacturing, and establishing high-security data centers for military use. The plan emphasizes the importance of creating a skilled workforce and ensuring robust protections for AI innovations. Canada can draw valuable lessons from these strategies to address its own gaps in AI infrastructure and policy.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Singapore National AI Strategy 2.0 (2023)",
+    "country": "Singapore",
+    "key_metrics": [
+      "S$500 million committed through AI Singapore (AISG)",
+      "1st in per capita terms in the Stanford Global AI Vibrancy Index (2021)",
+      "2nd in the Oxford Insights Government AI Index (2021)",
+      "3rd in the Tortoise Media Global AI Index (2022)",
+      "Over 80 active AI research faculty",
+      "150 AI R&D and product teams",
+      "1,100 AI start-ups",
+      "S$330,000 co-funding per project in the 100 Experiments programme",
+      "Boost AI Practitioner pool to 15,000",
+      "17,000 global leaders and industry decision-makers attended ATxSG"
+    ],
+    "infrastructure_findings": [
+      "Providing access to high-performance compute and associated engineering capabilities",
+      "Secure access and operate Graphics Processing Units (GPUs) for Singapore’s research community",
+      "Build up Singapore’s infrastructure engineering expertise",
+      "Significantly increase high-performance compute available in Singapore",
+      "Ensure reliable, localized access to high-performance compute",
+      "Build data management capabilities to enable safe and trusted data sharing",
+      "Establish a dedicated physical place for AI to co-locate AI creators and practitioners"
+    ],
+    "policy_findings": [
+      "National AI Strategy introduced in 2019",
+      "World’s first Model AI Governance Framework launched in 2019",
+      "AI Verify launched in 2022, an AI governance testing framework and software toolkit",
+      "The Government will adopt a sector-specific, use case-centric approach to AI",
+      "NAIS 2.0 outlines 15 Actions that Singapore will undertake across systems and enablers over the next 3-5 years",
+      "The Government will coordinate resources to support public sector AI adoption",
+      "Safeguarding Singapore’s AI interests in the international arena",
+      "Update AI governance frameworks to address novel risks"
+    ],
+    "talent_findings": [
+      "Resources and talent for AI are scarce and concentrated within a few companies and countries",
+      "Need for both technical experts and savvy users to maximize AI’s potential",
+      "Singapore aims to attract more top-tier researchers and engineers to work with and from Singapore",
+      "Scaling up AI-specific training programmes",
+      "Continuing Education and Training programmes for reskilling and upskilling workers"
+    ],
+    "supply_chain_findings": [
+      "Face intense global competition to access GPUs"
+    ],
+    "canada_relevance": [
+      "Investments in AI R&D can be a model for Canada.",
+      "Establishing a governance framework for AI could help address regulatory gaps in Canada.",
+      "Canada could benefit from developing a comprehensive AI governance framework similar to Singapore's Model AI Governance Framework.",
+      "Investing in AI talent and fostering a collaborative ecosystem could help Canada address its talent gaps.",
+      "Focus on attracting top AI talent to enhance research capabilities",
+      "Consider joint international grant calls to foster collaboration",
+      "The need for coordinated resources to support public sector AI adoption could inform Canada's approach to infrastructure and policy.",
+      "The emphasis on a national movement for AI could inspire Canada to foster broader partnerships across its economy and society."
+    ],
+    "final_summary": "Singapore's National AI Strategy 2.0 highlights significant investments in AI, with over S$500 million allocated and a strong emphasis on governance through pioneering frameworks like AI Verify. The strategy aims to enhance AI capabilities by attracting top talent, increasing high-performance compute access, and fostering a collaborative ecosystem. With a focus on public good and international collaboration, Singapore sets a model for Canada to address its own gaps in AI infrastructure and policy, particularly in governance and talent development.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Singapore Smart Nation 2.0 Report",
+    "country": "Singapore",
+    "key_metrics": [
+      "Singapore ranks first in the world for digital inclusion",
+      "Digital economy contributed 17.7% to GDP in 2023, up from 13.8% in 2018",
+      "99% of government services can be completed online",
+      "95% of small and medium enterprises (SMEs) adopt digital technology",
+      "Number of tech professionals has grown to 200,000 in 2024, from 160,000 in 2018",
+      "Achieved over 95% nationwide outdoor 5G standalone network coverage in 2022",
+      "99% of resident households are connected to the internet as of 2022, up from 88% in 2014",
+      "S$113 billion digital economy in 2023",
+      "AI skills diffusion rate of 20 times",
+      "70% of tech jobs filled by locals"
+    ],
+    "infrastructure_findings": [
+      "The first focuses on building up infrastructure, both physical and digital.",
+      "Achieved over 95% nationwide outdoor 5G standalone network coverage in 2022",
+      "Singapore's investments in the Nationwide Broadband Network (NBN) laid the foundation for reliable and high-bandwidth connectivity infrastructure",
+      "Next Generation Nationwide Broadband Network (NBN) provides high-speed broadband to all homes, offices, and schools",
+      "Digital infrastructure such as broadband and mobile networks, data centres, and cloud services need to have high availability.",
+      "Singapore's digital infrastructure continues to be robust, resilient, and future-proof."
+    ],
+    "policy_findings": [
+      "The third recognises that laws and regulations must evolve to both restrain and facilitate digital developments.",
+      "Refreshing the National Artificial Intelligence (AI) Strategy",
+      "Cybersecurity Strategy launched in 2016 and refreshed in 2021",
+      "Personal Data Protection Act enacted in 2012",
+      "Public Sector (Governance) Act enacted in 2018",
+      "Strengthened safeguards against harmful online content through the Online Safety (Miscellaneous Amendments) Act 2022.",
+      "Digital Service Standards (DSS) in place to help agencies design and develop digital services that are accessible, inclusive, and usable."
+    ],
+    "talent_findings": [
+      "Empowering workers with AI skills is a priority",
+      "Number of tech professionals has grown to 200,000 in 2024, from 160,000 in 2018",
+      "Robust training infrastructure to support upskilling and reskilling",
+      "Strong emphasis on training in AI to prepare workers for new growth opportunities",
+      "More than 50,000 students participate in the Code for Fun (CFF) programme every year."
+    ],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "Singapore's approach to evolving laws and regulations for AI could inform Canada's policy development.",
+      "The emphasis on building both physical and digital infrastructure may provide insights for Canada to enhance its AI competitiveness.",
+      "Investment in digital infrastructure is crucial for economic growth and competitiveness.",
+      "Canada could benefit from enhancing its cybersecurity legislation similar to Singapore's Cybersecurity Act.",
+      "Focus on digital inclusion and empowering the workforce with AI skills could inform Canada's strategy.",
+      "Establishing a dedicated agency for online safety may be a model for Canada.",
+      "Investment in AI research and development can enhance Canada's competitiveness.",
+      "Consider developing a comprehensive AI governance framework similar to Singapore's Model AI Governance Framework."
+    ],
+    "final_summary": "Singapore's Smart Nation 2.0 initiative emphasizes the importance of evolving digital infrastructure and capabilities while adapting laws and regulations to support technological advancements. The country has made significant strides in its digital economy, achieving high levels of digital inclusion and government service accessibility. With a strong focus on empowering the workforce through AI skills and robust training programs, Singapore serves as a model for Canada in enhancing its own AI competitiveness and addressing infrastructure gaps.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Germany AI Fact Sheet 2025/2026",
+    "country": "Germany",
+    "key_metrics": [
+      "USD 9.9 billion",
+      "26.3 percent",
+      "USD 40.4 billion",
+      "USD 19.5 billion",
+      "95 percent",
+      "2,900",
+      "415 robots per 10 thousand employees",
+      "EUR 16 billion",
+      "EUR 568 million raised by German AI start-ups in Q2/24",
+      "EUR 20 billion fund for AI gigafactories"
+    ],
+    "infrastructure_findings": [
+      "Focus on increased computing capacity and data infrastructure",
+      "Next-generation intelligence models to be funded",
+      "Germany has established four AI service centers to strengthen the country’s AI ecosystem",
+      "AI gigafactories are large-scale facilities dedicated to the development and training of next-generation AI models",
+      "GAIA-X is a Franco-German cloud platform initiative to create a federated secure data infrastructure for Europe."
+    ],
+    "policy_findings": [
+      "91% consider AI to be an important issue for own business model and future value chain",
+      "69% have already created own AI strategy",
+      "22% have a comprehensive AI governance management model",
+      "Five-billion-euro Artificial Intelligence Strategy launched in 2018",
+      "AI identified as one of six key technologies in the High-Tech Agenda 2025",
+      "Germany’s adoption of a 'trusted AI' philosophy provides a clear competitive edge",
+      "The European Union (EU) Parliament passed the Artificial Intelligence (AI) Act in 2024",
+      "The Cyber Resilience Act is set to be implemented by 2027."
+    ],
+    "talent_findings": [
+      "Cyber Valley initiative established ten new research groups and university chairs for AI and machine learning",
+      "A lively start-up culture helps promote the swift transfer of research findings to the marketplace",
+      "Ten new university chairs for AI and machine learning have been established at two universities"
+    ],
+    "supply_chain_findings": [
+      "Semiconductor research and production included in the High-Tech Agenda 2025"
+    ],
+    "canada_relevance": [
+      "Germany's significant public funding for AI start-ups could inform Canada's investment strategies.",
+      "The establishment of AI hubs and clusters may serve as a model for Canada to enhance its AI ecosystem.",
+      "Germany's focus on 'trusted AI' could inform Canada's AI policy development",
+      "The establishment of AI service centers may serve as a model for enhancing Canada's AI infrastructure.",
+      "Germany's focus on creating a secure data infrastructure through GAIA-X could inform Canada's approach to data sovereignty.",
+      "The upcoming AI Act and cybersecurity regulations in Germany may provide insights for Canada's AI legislation and regulatory framework."
+    ],
+    "final_summary": "Germany's AI ecosystem is thriving, with significant investments and a robust strategy aimed at positioning the country as a leader in AI development. The government has committed EUR 5.5 billion to enhance computing capacity and promote AI technologies, while the survival rates of AI start-ups remain high. Initiatives like Cyber Valley and GAIA-X are fostering research, education, and secure data infrastructure in AI. Germany's focus on 'trusted AI' legislation and comprehensive policies could serve as valuable lessons for Canada in enhancing its own AI competitiveness.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Stanford HAI AI Index Report 2025",
+    "country": "Global",
+    "key_metrics": [
+      "Global private AI investment reached $252.3 billion in 2024",
+      "U.S. private AI investment hit $109.1 billion in 2024",
+      "China's private AI investment was $9.3 billion",
+      "U.K.'s private AI investment was $4.5 billion",
+      "78% of organizations reported using AI in 2024",
+      "223 AI-enabled medical devices approved by the FDA in 2023",
+      "Generative AI attracted $33.9 billion globally in private investment",
+      "AI patents grew from 3,833 to 122,511 between 2010 and 2023",
+      "Number of AI-related laws in U.S. states increased from 49 in 2023 to 131 in 2024",
+      "Canada pledged $2.4 billion for AI"
+    ],
+    "infrastructure_findings": [
+      "Several countries launched billion-dollar national AI infrastructure initiatives",
+      "Major efforts to expand energy capacity to support AI development",
+      "AI models get increasingly bigger, more computationally demanding, and more energy intensive",
+      "Training compute for notable AI models doubles approximately every five months",
+      "Microsoft announced a $1.6 billion deal to revive the Three Mile Island nuclear reactor to power AI",
+      "Google and Amazon have secured nuclear energy agreements to support AI operations",
+      "Canada announced a $2.4 billion AI infrastructure package",
+      "China launched a $47.5 billion fund to boost semiconductor production"
+    ],
+    "policy_findings": [
+      "Governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness",
+      "U.S. federal agencies introduced 59 AI-related regulations in 2024",
+      "Legislative mentions of AI rose 21.3% across 75 countries since 2023",
+      "AI mentions in legislative proceedings increased by 21.3% in 2024",
+      "California AI Transparency Act requires large AI providers to offer free AI detection tools",
+      "EU passed the AI Act in June 2024, the first comprehensive regulatory framework for AI",
+      "Several bills introduced in the U.S. Congress to criminalize nonconsensual sharing of intimate images",
+      "Global cooperation on AI governance intensified in 2024"
+    ],
+    "talent_findings": [
+      "Two-thirds of countries now offer or plan to offer K–12 CS education",
+      "U.S. graduates with bachelor's degrees in computing increased 22% over the last 10 years",
+      "Graduates who earned their master’s degree in AI in the U.S. nearly doubled between 2022 and 2023",
+      "60% of respondents globally agree AI will change how individuals do their job in the next five years",
+      "AI job postings accounted for 1.41% in Canada"
+    ],
+    "supply_chain_findings": [
+      "China launched a $47.5 billion semiconductor fund",
+      "276,300 industrial robots installed in China in 2023",
+      "U.S. increased export controls of semiconductor manufacturing equipment and software to China",
+      "Global private AI investment climbed 44.5% from the previous year",
+      "Mergers and acquisitions in AI increased by 12.1% from the previous year"
+    ],
+    "canada_relevance": [
+      "Canada should consider launching national AI infrastructure initiatives to enhance its compute capacity",
+      "Investing in energy capacity to support AI development could be beneficial for Canada",
+      "Canada's $2.4 billion AI infrastructure package is crucial for enhancing its AI capabilities",
+      "The increase in AI legislation in U.S. states may serve as a model for Canada to develop its own AI policy framework",
+      "Canada's AI optimism grew by 8% since 2022",
+      "Canada's AI job postings percentage is lower than that of leading countries like Singapore",
+      "Canada has a notable AI skill penetration rate for women, indicating potential for growth in female representation in AI",
+      "The significant increase in AI talent concentration suggests a growing workforce that can be leveraged for AI development"
+    ],
+    "final_summary": "The Stanford HAI AI Index Report 2025 highlights significant advancements in AI investment and adoption globally, with the U.S. leading in private investment at $109.1 billion. Canada has pledged $2.4 billion for AI infrastructure, emphasizing the need for enhanced compute capacity and energy support. Legislative attention to AI is increasing, with a notable rise in regulations and mentions across various countries. Canada can learn from these global trends to improve its own AI infrastructure, policy frameworks, and talent development strategies.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "LinkedIn AI Talent Index",
+    "country": "Multi-country",
+    "key_metrics": [],
+    "infrastructure_findings": [],
+    "policy_findings": [],
+    "talent_findings": [],
+    "supply_chain_findings": [],
+    "canada_relevance": [],
+    "final_summary": "The document discusses various formulas related to AI talent concentration, literacy, and industry talent metrics. However, it lacks specific quantitative data or findings that pertain to infrastructure, policy, talent, or supply chains. As a result, it does not provide actionable insights for Canada regarding its AI competitiveness.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Malaysia AI Roadmap Playbook",
+    "country": "Malaysia",
+    "key_metrics": [
+      "5-YEAR GOAL: To create a self-sustaining AI Innovation Ecosystem for AI development",
+      "Malaysia's baseline growth is about 4.4%",
+      "AI-led growth adds an additional 1.2% to GDP growth",
+      "Targeting at least a 30% increase in GDP growth",
+      "Data Analyst target headcount by 2025: 339 (128% increase)",
+      "Data Engineer target headcount by 2025: 263 (180% increase)",
+      "Software Engineer target headcount by 2025: 259 (127% increase)",
+      "Data Scientists target headcount by 2025: 432 (115% increase)",
+      "Product Engineering target headcount by 2025: 205 (193% increase)",
+      "AI Architect target headcount by 2025: 171 (328% increase)"
+    ],
+    "infrastructure_findings": [
+      "Escalating Digital Infrastructure to Enable AI",
+      "Improving network and connectivity for wider access to digital infrastructure for AI",
+      "Enabling adoption of cloud computing and storage for AI",
+      "Good overall computing infrastructure",
+      "Majority of organizations have high capacity in storage, bandwidth, computing performance, secured data, and network latency",
+      "Only 30% of the responding organizations are at the initial implementation of the digital infrastructure and data activities"
+    ],
+    "policy_findings": [
+      "The AI-Rmap is aligned with the aims of the National Policy on Science, Technology and Innovation (DSTIN) 2021-2030.",
+      "Establishing AI Governance",
+      "Establishing AI Coordination and Implementation Unit (AI-CIU)",
+      "Institutionalizing current cybersecurity policies and best practices for AI incorporation",
+      "Establishing clear guidelines for data sharing in government to enable AI implementation",
+      "AI-CIU will act as the apex government body on all matters related to AI.",
+      "The first task of the AI-CIU would be to establish a Foresight Committee for policy advocacy."
+    ],
+    "talent_findings": [
+      "AI-Rmap’s vision is to increase employment opportunities and national competitiveness by expanding productivity and economic growth.",
+      "Fostering AI Talents",
+      "Offering comprehensive and inclusive AI Education",
+      "Reskilling and upskilling existing workforce",
+      "Attracting and retaining AI Talents"
+    ],
+    "supply_chain_findings": [
+      "Implementing Proposed National AI Use-Cases focusing on AI-Driven Supply Chain",
+      "Malaysia's economic foundations are based primarily on manufacturing, plantation, trading, logistics and distribution, and retail activities.",
+      "Malaysia boasts two of the top five ports in Southeast Asia.",
+      "4 of the 11 proposed National AI Use Cases are directly addressing different supply chain management challenges."
+    ],
+    "canada_relevance": [
+      "The focus on quadruple helix collaboration among government, academia, industry, and society could inform Canada's approach to enhancing its AI ecosystem.",
+      "Establishing clear guidelines for data sharing in government may provide insights for Canada in improving its AI policy framework.",
+      "Malaysia's focus on establishing clear guidelines for data sharing could inform Canada's AI policy framework.",
+      "The emphasis on improving digital infrastructure for AI could guide Canada's infrastructure investments.",
+      "The need for a centralized AI governance structure to enhance competitiveness.",
+      "The focus on reskilling and upskilling the workforce can inform Canada's approach to enhancing its AI talent pool.",
+      "The establishment of funding programs for AI education and professional development may serve as a model for Canadian policy.",
+      "Investing in cloud infrastructure could enhance AI adoption similar to Malaysia's approach."
+    ],
+    "final_summary": "The Malaysia AI Roadmap outlines a strategic vision for establishing a self-sustaining AI Innovation Ecosystem by 2025, emphasizing collaboration among government, academia, industry, and society. Key initiatives focus on enhancing digital infrastructure, fostering AI talent through comprehensive education and reskilling, and establishing robust governance frameworks. The roadmap aims for significant economic growth through AI-led initiatives, targeting a 30% increase in GDP. Lessons from Malaysia's approach, particularly in data sharing, talent development, and infrastructure investment, could inform Canada's strategies to enhance its own AI competitiveness.",
+    "source_type": "pdf"
+  },
+  {
+    "document_name": "Missing Pillar of Canada's AI Strategy: Data Supply Chains",
+    "country": "Canada",
+    "key_metrics": [
+      "20-percent sample of all Canadian tax filers",
+      "data from 1982 onward",
+      "$20 million for each national AI institute from 2021/22 to 2025/26",
+      "$125 million for global innovation clusters",
+      "$40 million for AI researchers from 2022/23 to 2026/27",
+      "$2 billion for AI public infrastructure",
+      "$240 million for Cohere to build an AI data centre",
+      "$300 million AI Compute Access Fund",
+      "$200 million for AI-based startups in critical sectors",
+      "$925.6 million over the next five years for public AI infrastructure"
+    ],
+    "infrastructure_findings": [
+      "federal government has spent considerable effort on strengthening Canadian AI sovereignty through developing resources for domestic computing and infrastructure",
+      "Enhanced access to public computing resources",
+      "$2 billion earmarked to build and provide access to computing capabilities and technological infrastructure for AI researchers and startups",
+      "$240 million allocated to build an AI data centre for Cohere",
+      "Steps have been implemented to establish virtual Research Data Centres (vRDCs) to allow Canadian academics to access specific confidential datasets from work or home",
+      "$925.6 million earmarked for enhancing computing availability and capacity"
+    ],
+    "policy_findings": [
+      "AI Strategy Task Force established to define Canada’s approach to AI",
+      "focus on building public infrastructure",
+      "no explicit mention of establishing strong data supply chains for firms",
+      "Canada lacks clear, standardized, and legally supported data-sharing frameworks that enable responsible AI-model training while protecting individual privacy and public trust",
+      "Federal government should prioritize the production of synthetic data through appropriate regulations",
+      "Bill C-27 reflects lessons learned from past public outcry regarding data sharing for public good",
+      "Legal uncertainty over accessing online training data must be removed through appropriate amendments to privacy legislation",
+      "Bill S-5, the Connected Care for Canadians Act, is intended to enable Canadians to access their health data by mandating common standards for digital health services"
+    ],
+    "talent_findings": [
+      "CIFAR developed initiatives to attract and retain global research talent",
+      "$1.7 billion proposed to attract international AI researchers",
+      "$50 million for skills training in potentially disrupted sectors",
+      "Funding provided for training and knowledge mobilization programs",
+      "Proposals for Mitacs funding should enable the hiring of graduate/advanced undergraduate students or recent graduates"
+    ],
+    "supply_chain_findings": [
+      "suggestion of 'data markets' for individuals to sell information generated through online interactions",
+      "Easier access to Statistics Canada microdata at reasonable rates would strengthen the data supply chain",
+      "Canada can become a global leader in allowing private sector organizations to access confidential data collected by different levels of government",
+      "Allowing carefully regulated private sector access to confidential Statistics Canada data would enhance Canada’s AI ecosystem"
+    ],
+    "canada_relevance": [
+      "improving access to large datasets is critical for AI innovation",
+      "Statistics Canada datasets could provide a strong boost to Canada’s AI ecosystem",
+      "trust in Statistics Canada is important for data sharing",
+      "Canada has an opportunity to develop infrastructure that supports data sharing within secure data access and analysis environments",
+      "Investments in AI research ecosystem and computing infrastructure are crucial for Canada",
+      "Canada should learn from the UK’s regulated sandboxes for AI testing",
+      "Canada can take a significant leap forward through enhanced data access to private sector organizations",
+      "Canada has the opportunity to create a globally influential model that drives inclusive economic growth and supports ethical AI development"
+    ],
+    "final_summary": "Canada's AI strategy faces significant challenges due to gaps in data-sharing frameworks and privacy legislation, which hinder innovation and public trust. The federal government has made substantial investments in AI infrastructure, including $2 billion for public computing resources, but lacks a cohesive strategy for data supply chains. Enhancing access to Statistics Canada datasets and establishing regulated sandboxes could foster collaboration and innovation in the private sector. By addressing these gaps, Canada can position itself as a leader in ethical AI development and data governance.",
+    "source_type": "web"
+  },
+  {
+    "document_name": "Canada's Sovereign AI Compute Gap",
+    "country": "Canada",
+    "key_metrics": [
+      "$925.6 million over five years for sovereign public AI infrastructure",
+      "$240 million federal support for a $725 million data centre project"
+    ],
+    "infrastructure_findings": [
+      "Canada continues to rely heavily on foreign operated systems for AI infrastructure.",
+      "Data centres and large-scale compute are treated as background infrastructure rather than strategic assets.",
+      "Canada committed $925.6 million to support sovereign public AI infrastructure",
+      "Federal support of up to $240 million for a $725 million data centre project in Cambridge, Ontario"
+    ],
+    "policy_findings": [
+      "Canada has not yet fully adopted a view that treats cloud infrastructure as a strategic asset.",
+      "Ottawa continues to treat cloud infrastructure primarily as a service to be procured.",
+      "Canada's response to AI infrastructure has been cautious compared to the UK.",
+      "Canada's initiatives illustrate a pragmatic compromise in asserting sovereignty."
+    ],
+    "talent_findings": [],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "Canada's dependence on foreign-operated cloud infrastructure raises concerns about digital sovereignty.",
+      "The shift in other countries towards treating digital infrastructure as a matter of economic security highlights the need for Canada to reassess its approach.",
+      "Canada faces a strategic choice to either continue relying on U.S.-based operators or build domestic compute infrastructure.",
+      "Access to compute is now harder to substitute and more consequential to economic and security outcomes."
+    ],
+    "final_summary": "Canada is investing $925.6 million over five years to develop sovereign AI infrastructure, including a significant data centre project in Ontario. However, the country continues to rely heavily on foreign-operated systems, raising concerns about digital sovereignty. Compared to peers like the UK, Canada's cautious approach to AI infrastructure may hinder its strategic positioning. Canada must critically assess its dependency on external sources and consider building its own capacity to ensure economic and security outcomes.",
+    "source_type": "web"
+  },
+  {
+    "document_name": "Can Canada Compute? AI Compute Gap Policy Options",
+    "country": "Canada",
+    "key_metrics": [
+      "Canada's current computing performance potential is half that of the United Kingdom’s",
+      "Canada's domestic AI workforce is estimated to be between 200,000 and 220,000",
+      "AI workforce represents one percent of Canada’s workforce in 2023",
+      "Canada ranks fourth among the top ten nations in venture capital investment",
+      "Over 150 firms raised a total of $2.5 billion in venture in 2023",
+      "Only $40 million of the $573 million is earmarked for AI Compute initiatives",
+      "Canada has 0.7 percent of global compute performance",
+      "Canada needs upwards of $400 million in AIC-specific hardware procurement, integration, and operation costs to triple its capacity.",
+      "Investment in AIC could be in the range of hundreds of millions to billions of dollars.",
+      "Yoshua Bengio estimated the cost of sufficient high-performance computing infrastructure as about one billion dollars."
+    ],
+    "infrastructure_findings": [
+      "Canada holds the lowest amount of publicly-available computing infrastructure and performance among G7 peers",
+      "Canada faces a shortage of AI Compute (AIC) infrastructure",
+      "Canada's domestic supercomputing infrastructure lags in the number of compute units available and performance in AI training and inference",
+      "Current infrastructure’s lacklustre computing performance inhibits the ability to handle AI workloads within domestic borders",
+      "Only three of the five Canadian university-based supercomputers have the specific hardware required for effective AI computation",
+      "Industry-owned infrastructure remains scarce for commercial deployment of AI in Canada",
+      "Canada's PFLOPS per kilowatt is 0.007 compared to the United States at 0.016 PFLOPS per kilowatt, indicating less energy efficiency in public-use AIC infrastructure.",
+      "Canada's domestic AIC infrastructure has less than half the capacity it needs to reach parity with international competitors."
+    ],
+    "policy_findings": [
+      "Canada was the first nation to launch a national AI strategy in 2017",
+      "Efforts are underway to develop internationally-aligned industry standards for AI",
+      "The Pan-Canadian AI Strategy (PCAIS) was launched to guide AI development",
+      "The OECD highlighted the lack of targeted plans for national AI Compute capacity in Canada’s national AI strategy as a policy blind spot",
+      "Investment in Canada’s computing infrastructure has been largely limited to government and research institutions",
+      "Public policy must be designed to benefit a broad array of AI ecosystem firms and stakeholders.",
+      "Direct support for cloud-computing costs would address computing resource needs.",
+      "Bridging the AI Compute gap should align with Canada’s positioning as a leader in responsible AI innovation and adoption."
+    ],
+    "talent_findings": [
+      "Canada leads in AI research publications per capita among G7 nations as of May 2023",
+      "The AI Compute gap creates special challenges for Canada’s high-growth domestic AI firms and workers with AI skills",
+      "Domestic AI ecosystems face challenges in talent retention due to reliance on US infrastructure.",
+      "The federal government could help subsidize or make access available to others, including start-ups, to help ensure that more AI talent and organizations stay and grow in Canada.",
+      "Canada's AI strategy is talent-focused but lacks the infrastructure to provide opportunities for early-growth firms."
+    ],
+    "supply_chain_findings": [
+      "Domestic AI supply chain constrains building AIC capacity in Canada",
+      "Canada should support and take advantage of US investments in the CHIPS and Science Act.",
+      "Majority of Canadian AI industry accesses AIC through US-based cloud computing services.",
+      "Canada can acquire larger quantities of AIC and increase negotiating power by joining international collaboratives.",
+      "Proactive procurement of future AIC hardware and infrastructure could ensure sustainable supply chains."
+    ],
+    "canada_relevance": [
+      "Canada needs to urgently tackle the AI Compute gap to retain and grow business and talent investments",
+      "The AI Compute gap could hinder Canadian innovators and slow down AI adoption",
+      "Canada risks falling behind leading international peers that are translating R&D and industry adoption of AI into productivity improvements",
+      "Bridging the AI Compute gap is essential for Canada to be taken seriously as a leader in the international AI ecosystem.",
+      "Public investment should not simply replace private investment and must be well governed.",
+      "Investment in AI infrastructure and skilling initiatives is crucial for Canada's AI growth.",
+      "Canada is uniquely positioned to lead international initiatives based on trade, diplomacy, and AI expertise.",
+      "High costs of AI Compute are barriers for early-stage AI firms in Canada."
+    ],
+    "final_summary": "Canada is facing a significant AI Compute gap, holding the lowest amount of publicly-available computing infrastructure among G7 nations. Despite having a strong AI talent pool and being a pioneer in AI legislation, the lack of sufficient AI Compute infrastructure poses risks to the country's economic competitiveness and innovation potential. Urgent policy measures are needed to close the AI Compute gap and enhance the competitiveness of Canadian AI firms. The government must allocate funding and explore international collaborations to improve AI infrastructure and retain talent.",
+    "source_type": "web"
+  },
+  {
+    "document_name": "Minerals and Metals Facts (NRCan)",
+    "country": "Canada",
+    "key_metrics": [],
+    "infrastructure_findings": [],
+    "policy_findings": [],
+    "talent_findings": [],
+    "supply_chain_findings": [],
+    "canada_relevance": [],
+    "final_summary": "Canada's minerals and metals sector is crucial for the national economy, providing jobs and economic activity across all regions. The sector encompasses various themes including production, trade, and employment, highlighting its significance in everyday life.",
+    "source_type": "web"
+  },
+  {
+    "document_name": "China's New Generation AI Development Plan (2017)",
+    "country": "China",
+    "key_metrics": [
+      "ranked second in the world for international scientific and technology papers published",
+      "ranked second in the world for the number of inventions patented",
+      "By 2020, AI technology and application will be in step with globally advanced levels.",
+      "By 2025, major breakthroughs in basic theories for AI are expected.",
+      "By 2030, China's AI theories, technologies, and applications should achieve world-leading levels."
+    ],
+    "infrastructure_findings": [
+      "urgent improvement of basic infrastructure is required",
+      "Build high-performance computing infrastructure",
+      "Construct AI innovation platforms to strengthen foundational support for AI research and development.",
+      "Create a hybrid enhanced intelligent support platform focusing on heterogeneous real-time computing engines and new computing clusters."
+    ],
+    "policy_findings": [
+      "The plan aims to take the development of AI to the national strategic level with systemic layout.",
+      "It emphasizes the need for plans and strategies for core technology, top talent, standards, and regulations.",
+      "deployed the National Key Research and Development Plan’s key special projects",
+      "issued and implemented the 'Internet +' and AI Three-Year Activities and Implementation Program",
+      "Implementation of the innovation-driven development strategy.",
+      "Establish mechanisms to normalize communication and coordination among scientific research institutes, universities, enterprises and military industry units",
+      "Develop laws, regulations, and ethical norms that promote the development of AI",
+      "Establish a traceability and accountability system for AI applications."
+    ],
+    "talent_findings": [
+      "cutting-edge talent for AI is far from meeting demand",
+      "Strengthening the high-end talent team in AI to promote innovation and cooperative interactions.",
+      "Make the construction of a high-end talent team of utmost importance in AI development.",
+      "Accelerate the study of the employment structure brought on by AI and establish a lifelong learning and employment training system.",
+      "Encourage enterprises and organizations to provide AI skills training for employees."
+    ],
+    "supply_chain_findings": [
+      "lacking major original results in high-end chips, major products and systems, foundational materials, components, software and interfaces."
+    ],
+    "canada_relevance": [
+      "Canada could benefit from developing a national strategy for AI that emphasizes systemic planning and coordination.",
+      "The focus on talent and regulatory frameworks in China's plan highlights the importance of these areas for Canada's AI competitiveness.",
+      "Canada should focus on improving its AI infrastructure and policies to close the gap with leading countries.",
+      "The need for a systematic research and development layout is crucial for Canada to enhance its AI competitiveness.",
+      "Focus on building a strong AI policy framework to support innovation and commercialization.",
+      "Encouraging local industry chains and innovation chains around AI could inform Canada's strategy to strengthen its AI ecosystem.",
+      "Implementing tax incentives for AI startups could stimulate growth in Canada's AI sector.",
+      "The emphasis on AI skills training and education could inform Canada's approach to workforce development in AI."
+    ],
+    "final_summary": "China's New Generation AI Development Plan outlines a comprehensive strategy to enhance its AI capabilities through significant investments in infrastructure, talent development, and regulatory frameworks. The plan aims for China to achieve world-leading status in AI technologies by 2030, while addressing challenges such as talent shortages and gaps in core technologies. Key lessons for Canada include the importance of developing a national AI strategy, improving infrastructure, and fostering a skilled workforce through targeted education and training initiatives. By focusing on these areas, Canada can enhance its competitiveness in the global AI landscape.",
+    "source_type": "web"
+  },
+  {
+    "document_name": "Telus AI -- Canadian Enterprise AI Adoption",
+    "country": "Canada",
+    "key_metrics": [
+      "124,000 inquiries resolved",
+      "17 minutes saved per team member",
+      "$230 billion potential productivity boost in Canada",
+      "175 hours freed up for an average Canadian annually",
+      "7% of Canadian businesses used AI in 2023",
+      "Expected jump to 20% of businesses employing AI in 2024"
+    ],
+    "infrastructure_findings": [],
+    "policy_findings": [
+      "Canada released a voluntary code of conduct for AI management",
+      "Criticism of the code from industry leaders, including Shopify CEO"
+    ],
+    "talent_findings": [],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "The potential productivity boost from AI could address Canada's productivity decline.",
+      "The increase in AI adoption among businesses indicates a growing recognition of its benefits."
+    ],
+    "final_summary": "Telus has successfully implemented a generative AI personal assistant that resolved over 124,000 inquiries, significantly saving time for employees. Currently, AI adoption in Canada stands at 7%, with expectations to rise to 20% in the coming year. This shift highlights the potential for AI to enhance productivity, particularly in light of Canada's ongoing productivity challenges. However, the recent voluntary code of conduct for AI management has faced criticism, indicating the need for more robust regulatory frameworks.",
+    "source_type": "youtube"
+  },
+  {
+    "document_name": "Parliamentary Committee on AI in Canada",
+    "country": "Canada",
+    "key_metrics": [
+      "34% of Canadians are willing to trust AI systems",
+      "80% are concerned about negative outcomes on their lives",
+      "78% fear AI will undermine elections",
+      "70% are worried about children's safety",
+      "80% believe AI threatens jobs",
+      "88% want stronger governance",
+      "$1.7 billion to recruit top international researchers",
+      "$1.7 billion initiative to recruit up to 1,000 international researchers",
+      "$1.7 million per researcher"
+    ],
+    "infrastructure_findings": [],
+    "policy_findings": [
+      "Canada should focus on regulating AI systems and outcomes, not just models.",
+      "Effective governance emphasizes explainability, bias monitoring, auditability, data governance, and cyber resilience.",
+      "Canada's strategic opportunity is to outperform in trusted regulated large-scale AI deployment.",
+      "Three federal policy priorities: executive and public sector capability building, shared national data and AI infrastructure, and clear deployable standards for trustworthy AI.",
+      "Canada does not need sweeping new AI legislation; measures can be implemented through existing frameworks.",
+      "An amended online harms act could bring AI chatbots into scope.",
+      "An amended consumer privacy protection act could include AI-specific transparency requirements.",
+      "The government has not sufficiently taken democratic consultation seriously regarding AI technologies."
+    ],
+    "talent_findings": [
+      "Canada produces excellent engineers and data scientists.",
+      "Canada remains a global leader in foundational AI research, ethics, and graduate level talent.",
+      "Many Canadians or want to be Canadians wanting to repatriate from the United States.",
+      "Efforts to ensure that HQP from overseas are able to come to Canada for graduate study and post-doctoral research.",
+      "To attract talent, Canada needs to provide doctoral students, postdoctoral students, labs, and competitive salaries."
+    ],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "Canada can lead globally in regulated and trustworthy AI deployment in finance, infrastructure, and public systems.",
+      "The biggest policy mistake Canada could make is treating AI as only an innovation issue rather than a national infrastructure issue.",
+      "Canada has strengths in social science and humanities but remains significantly underfunded in these areas.",
+      "The opportunity for Canada lies in developing trustworthy human-centered AI applications in sectors contributing to GDP, such as energy, mining, and advanced manufacturing.",
+      "96% of the Canadian economy is based upon small and medium-sized enterprises that need support to remain competitive.",
+      "Canada needs to develop more autonomy in AI systems and governance.",
+      "The current reliance on a small number of US platforms and large language models poses vulnerabilities.",
+      "There is a need for better education and training for executives to understand AI capabilities."
+    ],
+    "final_summary": "Canada is at a critical juncture in its AI development, facing challenges in governance, talent retention, and infrastructure. While it leads in foundational AI research and produces skilled professionals, many are drawn abroad by better opportunities. The country must prioritize effective regulation, enhance interdisciplinary research, and ensure that AI deployment is inclusive and trustworthy. By addressing these gaps, Canada can leverage its strengths to become a global leader in responsible AI integration across various sectors.",
+    "source_type": "youtube"
+  },
+  {
+    "document_name": "Microsoft $7.5B Canada Data Centre Investment",
+    "country": "Canada",
+    "key_metrics": [
+      "$7.5 billion investment",
+      "next two years",
+      "capacity beginning to come online in the second half of 2026"
+    ],
+    "infrastructure_findings": [
+      "Microsoft is expanding existing data centers in Canada",
+      "Building new digital and AI infrastructure"
+    ],
+    "policy_findings": [
+      "Microsoft aims to protect and promote Canada's digital sovereignty",
+      "Willingness to defend against potential infringements on digital sovereignty",
+      "Governments have key roles to play in directing policy to ensure skills development for AI."
+    ],
+    "talent_findings": [
+      "There is a need for digital fluency and skills development to interact with AI technologies.",
+      "Nonprofits like Asha in Canada play a key role in reaching indigenous communities."
+    ],
+    "supply_chain_findings": [],
+    "canada_relevance": [
+      "Investment in data centers supports Canada's AI infrastructure needs",
+      "Focus on digital sovereignty aligns with Canada's policy challenges.",
+      "The emphasis on equipping a broad number of people with skills is crucial for Canada's AI strategy.",
+      "Investment from employers and government support is necessary for effective AI integration."
+    ],
+    "final_summary": "Microsoft is investing over $7.5 billion in Canada to expand data centers and build new digital and AI infrastructure, with new capacity expected by late 2026. The company emphasizes its commitment to protecting Canada's digital sovereignty amid geopolitical tensions. Additionally, there is a pressing need for digital fluency and skills development across the population, particularly for underserved communities. Governments and employers are encouraged to invest in training and support to ensure effective AI integration and address the challenges posed by rapid technological advancements.",
+    "source_type": "youtube"
+  }
+]
